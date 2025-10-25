@@ -92,7 +92,7 @@ Este projeto demonstra domínio em:
 **Renan de Souza Rosa**
 
 🔗 GitHub: https://github.com/dev-renanrosa  
-📧 Email profissional: renan@example.com (trocar para o seu)
+📧 Email profissional: renaninvestimento@gmail.com
 
 ---
 
